@@ -14,8 +14,6 @@ The dataset used for this project is a sample of sales records, including detail
 
 * **Core Features:**
 
-  * **Data Functions:** Utilized various functions (e.g., `SUMIFS`, `VLOOKUP`) for data aggregation and lookups.
-
   * **PivotTables & PivotCharts:** Created dynamic PivotTables and PivotCharts to summarize sales data and identify trends.
 
   * **Visualizations:** Designed charts and a dashboard to effectively communicate key insights.
